@@ -1,0 +1,5 @@
+D:\UWUU\Hashing\Hashing.exe
+D:\UWUU\Hashing\Hashing.dll
+D:\UWUU\Hashing\Hashing.deps.json
+D:\UWUU\Hashing\Hashing.runtimeconfig.json
+D:\UWUU\Hashing\Hashing.pdb

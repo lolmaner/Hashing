@@ -1,0 +1,14 @@
+D:\UwU\Hashing\Hashing\bin\Debug\net8.0\Hashing.exe
+D:\UwU\Hashing\Hashing\bin\Debug\net8.0\Hashing.deps.json
+D:\UwU\Hashing\Hashing\bin\Debug\net8.0\Hashing.runtimeconfig.json
+D:\UwU\Hashing\Hashing\bin\Debug\net8.0\Hashing.dll
+D:\UwU\Hashing\Hashing\bin\Debug\net8.0\Hashing.pdb
+D:\UwU\Hashing\Hashing\obj\Debug\net8.0\Hashing.GeneratedMSBuildEditorConfig.editorconfig
+D:\UwU\Hashing\Hashing\obj\Debug\net8.0\Hashing.AssemblyInfoInputs.cache
+D:\UwU\Hashing\Hashing\obj\Debug\net8.0\Hashing.AssemblyInfo.cs
+D:\UwU\Hashing\Hashing\obj\Debug\net8.0\Hashing.csproj.CoreCompileInputs.cache
+D:\UwU\Hashing\Hashing\obj\Debug\net8.0\Hashing.dll
+D:\UwU\Hashing\Hashing\obj\Debug\net8.0\refint\Hashing.dll
+D:\UwU\Hashing\Hashing\obj\Debug\net8.0\Hashing.pdb
+D:\UwU\Hashing\Hashing\obj\Debug\net8.0\Hashing.genruntimeconfig.cache
+D:\UwU\Hashing\Hashing\obj\Debug\net8.0\ref\Hashing.dll
